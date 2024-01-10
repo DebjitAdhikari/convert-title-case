@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to top left,rgb(0, 255, 68),rgb(0, 255, 242));
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    color:white;
+}
